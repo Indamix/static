@@ -1,18 +1,1 @@
-.fractal {
-  border-radius: 10px;
-  background: rgba(255, 255, 255, .3);
-  padding: 10px;
-  display: inline-block;
-}
-
-.fs .fr {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-}
-
-.fs .bar {
-  position: fixed;
-}
+.fractal{border-radius:10px;background:rgba(255,255,255,0.3);padding:10px;display:inline-block}.fs .fr{position:absolute;top:0;left:0;right:0;bottom:0}.fs .bar{position:fixed}.it .is .working{color:green}
